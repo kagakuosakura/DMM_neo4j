@@ -1,91 +1,91 @@
-id,work,duration
-1,Payment Adjustment Coordinator,5
-2,Data Coordiator,15
-3,Associate Professor,16
-4,Actuary,14
-5,Food Chemist,1
-6,Sales Representative,15
-7,Web Designer III,14
-8,Programmer I,18
-9,Social Worker,21
-10,Junior Executive,29
-11,Structural Analysis Engineer,1
-12,Design Engineer,21
-13,Engineer I,28
-14,Human Resources Manager,21
-15,Programmer II,29
-16,Compensation Analyst,4
-17,Junior Executive,12
-18,Executive Secretary,17
-19,Geologist IV,9
-20,Help Desk Operator,30
-21,Marketing Manager,6
-22,Quality Control Specialist,14
-23,Account Executive,15
-24,Desktop Support Technician,24
-25,Occupational Therapist,14
-26,Software Test Engineer I,19
-27,Office Assistant III,1
-28,Assistant Manager,7
-29,Recruiter,1
-30,Environmental Specialist,16
-31,Graphic Designer,26
-32,VP Quality Control,21
-33,Civil Engineer,5
-34,Staff Scientist,24
-35,Clinical Specialist,1
-36,Developer III,18
-37,Structural Analysis Engineer,3
-38,Accounting Assistant IV,30
-39,VP Sales,8
-40,Assistant Media Planner,17
-41,Chemical Engineer,17
-42,Paralegal,11
-43,Biostatistician II,13
-44,Senior Editor,27
-45,Analog Circuit Design manager,29
-46,Junior Executive,9
-47,Physical Therapy Assistant,21
-48,Sales Representative,7
-49,Nurse Practicioner,19
-50,Assistant Professor,26
-51,Health Coach II,15
-52,Computer Systems Analyst III,15
-53,Mechanical Systems Engineer,23
-54,Geological Engineer,28
-55,Business Systems Development Analyst,2
-56,Staff Scientist,5
-57,Marketing Assistant,17
-58,Biostatistician III,27
-59,Nurse Practicioner,12
-60,Geological Engineer,20
-61,VP Sales,10
-62,Quality Control Specialist,1
-63,Editor,17
-64,Cost Accountant,17
-65,Accounting Assistant IV,11
-66,Financial Analyst,20
-67,Project Manager,14
-68,Administrative Officer,7
-69,Senior Quality Engineer,10
-70,Developer IV,26
-71,Geologist IV,28
-72,Environmental Specialist,2
-73,Statistician IV,2
-74,Quality Control Specialist,5
-75,Automation Specialist III,9
-76,Environmental Tech,21
-77,Automation Specialist II,18
-78,Account Executive,19
-79,Design Engineer,23
-80,Account Executive,20
-81,Social Worker,7
-82,Account Executive,26
-83,Business Systems Development Analyst,28
-84,Staff Scientist,23
-85,Chief Design Engineer,11
-86,Accounting Assistant I,11
-87,Geological Engineer,26
-88,Environmental Specialist,29
-89,Marketing Assistant,21
-90,Executive Secretary,18
+id,work,duration,freelancer_id
+1,Editor,13,27
+2,Environmental Specialist,1,9
+3,Geologist I,23,22
+4,Human Resources Manager,30,8
+5,Media Manager I,28,29
+6,Safety Technician I,8,17
+7,Clinical Specialist,25,29
+8,Speech Pathologist,22,11
+9,Financial Advisor,18,30
+10,Senior Cost Accountant,10,15
+11,Research Nurse,29,6
+12,Recruiting Manager,22,13
+13,Internal Auditor,2,5
+14,Staff Accountant II,28,11
+15,Occupational Therapist,24,20
+16,Programmer Analyst II,30,24
+17,Biostatistician I,2,4
+18,Accountant II,22,24
+19,Tax Accountant,17,25
+20,Graphic Designer,6,10
+21,Statistician IV,7,3
+22,Sales Representative,22,4
+23,Mechanical Systems Engineer,4,27
+24,Financial Advisor,28,16
+25,Account Representative I,11,16
+26,Web Developer IV,5,8
+27,Speech Pathologist,24,12
+28,Nurse,13,18
+29,Speech Pathologist,16,18
+30,Assistant Manager,9,9
+31,Geological Engineer,11,28
+32,Professor,11,9
+33,Nuclear Power Engineer,29,6
+34,VP Marketing,24,13
+35,Software Consultant,4,14
+36,Account Coordinator,8,22
+37,Director of Sales,28,17
+38,Nurse Practicioner,24,15
+39,Research Nurse,7,25
+40,Analyst Programmer,13,16
+41,Teacher,16,18
+42,Cost Accountant,16,12
+43,Senior Financial Analyst,5,3
+44,Nurse Practicioner,2,12
+45,Recruiting Manager,19,26
+46,Editor,28,21
+47,Human Resources Assistant IV,5,16
+48,Statistician II,19,24
+49,Assistant Manager,6,12
+50,Environmental Tech,22,12
+51,Assistant Media Planner,5,28
+52,Senior Sales Associate,1,8
+53,Web Designer IV,16,21
+54,Programmer IV,28,22
+55,Financial Analyst,2,29
+56,Financial Analyst,24,8
+57,Senior Sales Associate,1,22
+58,Speech Pathologist,12,9
+59,Media Manager IV,24,28
+60,Desktop Support Technician,2,2
+61,Editor,14,13
+62,Associate Professor,26,18
+63,Payment Adjustment Coordinator,11,18
+64,Biostatistician IV,19,7
+65,Graphic Designer,28,14
+66,Desktop Support Technician,20,30
+67,Web Designer I,12,17
+68,VP Marketing,2,8
+69,Structural Analysis Engineer,26,26
+70,Community Outreach Specialist,13,11
+71,Accountant IV,27,5
+72,Budget/Accounting Analyst I,18,4
+73,VP Marketing,4,23
+74,Nurse,21,14
+75,Structural Analysis Engineer,12,15
+76,Web Developer III,28,1
+77,Associate Professor,5,3
+78,Desktop Support Technician,7,4
+79,Paralegal,5,29
+80,Operator,18,3
+81,Teacher,19,16
+82,Help Desk Operator,17,9
+83,Business Systems Development Analyst,17,13
+84,Human Resources Assistant II,4,30
+85,VP Product Management,20,8
+86,Environmental Tech,29,17
+87,Environmental Tech,18,30
+88,Accounting Assistant II,5,29
+89,Research Associate,1,13
+90,Tax Accountant,30,13

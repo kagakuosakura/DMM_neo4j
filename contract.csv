@@ -1,0 +1,61 @@
+id,status,create_date,client_rating,freelancer_rating,client_rating_description,freelancer_rating_description,proposal_id
+1,ongoing,2019-11-08,NULL,NULL,NULL,NULL,86
+2,cancelled,2018-01-10,4.8,4.4,Nunc rhoncus dui vel sem.,Suspendisse accumsan tortor quis turpis.,129
+3,ongoing,2019-11-12,NULL,NULL,NULL,NULL,197
+4,dispute,2020-08-14,NULL,NULL,NULL,NULL,136
+5,cancelled,2018-12-12,3.6,1.3,Aliquam sit amet diam in magna bibendum imperdiet.,Vivamus in felis eu sapien cursus vestibulum.,7
+6,cancelled,2019-09-09,1.2,1.4,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",Nullam porttitor lacus at turpis.,105
+7,ongoing,2020-03-15,NULL,NULL,NULL,NULL,127
+8,dispute,2019-12-01,NULL,NULL,NULL,NULL,150
+9,ongoing,2019-02-01,NULL,NULL,NULL,NULL,139
+10,dispute,2018-06-06,NULL,NULL,NULL,NULL,147
+11,cancelled,2018-05-13,3.7,1.7,Praesent blandit.,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",49
+12,ongoing,2020-09-02,NULL,NULL,NULL,NULL,182
+13,cancelled,2019-11-04,4.1,3.0,Sed vel enim sit amet nunc viverra dapibus.,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",33
+14,dispute,2020-08-15,NULL,NULL,NULL,NULL,28
+15,dispute,2019-05-08,NULL,NULL,NULL,NULL,110
+16,complete,2018-08-11,4.7,1.2,Nulla facilisi.,Quisque id justo sit amet sapien dignissim vestibulum.,155
+17,ongoing,2018-12-25,NULL,NULL,NULL,NULL,155
+18,dispute,2019-04-05,NULL,NULL,NULL,NULL,72
+19,complete,2018-07-02,4.8,3.3,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",Curabitur at ipsum ac tellus semper interdum.,48
+20,ongoing,2018-05-21,NULL,NULL,NULL,NULL,140
+21,dispute,2019-05-02,NULL,NULL,NULL,NULL,19
+22,complete,2019-11-08,3.0,3.8,In hac habitasse platea dictumst.,Vivamus vel nulla eget eros elementum pellentesque.,166
+23,ongoing,2018-05-01,NULL,NULL,NULL,NULL,179
+24,cancelled,2018-05-03,2.5,5.0,Donec vitae nisi.,Morbi vel lectus in quam fringilla rhoncus.,88
+25,ongoing,2018-09-03,NULL,NULL,NULL,NULL,117
+26,ongoing,2018-02-24,NULL,NULL,NULL,NULL,6
+27,complete,2019-04-11,2.7,3.0,Cras pellentesque volutpat dui.,Nulla ac enim.,71
+28,cancelled,2018-09-02,2.4,2.5,Nulla tempus.,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,51
+29,ongoing,2018-04-15,NULL,NULL,NULL,NULL,169
+30,ongoing,2018-02-23,NULL,NULL,NULL,NULL,3
+31,cancelled,2020-04-13,1.9,4.3,Vivamus in felis eu sapien cursus vestibulum.,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",195
+32,complete,2018-09-09,2.4,2.5,Maecenas pulvinar lobortis est.,Vivamus in felis eu sapien cursus vestibulum.,178
+33,dispute,2019-02-03,NULL,NULL,NULL,NULL,163
+34,complete,2018-09-12,4.2,2.0,In blandit ultrices enim.,Vivamus vel nulla eget eros elementum pellentesque.,19
+35,cancelled,2019-04-27,1.8,3.5,Pellentesque ultrices mattis odio.,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",19
+36,cancelled,2019-03-28,1.2,4.0,Aenean fermentum.,Curabitur at ipsum ac tellus semper interdum.,99
+37,ongoing,2019-11-21,NULL,NULL,NULL,NULL,154
+38,complete,2018-02-01,4.9,1.4,Donec posuere metus vitae ipsum.,Phasellus sit amet erat.,182
+39,cancelled,2019-01-16,2.5,4.0,In congue.,Pellentesque viverra pede ac diam.,48
+40,cancelled,2020-03-20,3.9,3.8,Proin interdum mauris non ligula pellentesque ultrices.,In quis justo.,132
+41,cancelled,2018-04-16,1.9,2.3,Etiam justo.,Aenean fermentum.,136
+42,complete,2019-12-26,4.5,2.6,Donec ut dolor.,In hac habitasse platea dictumst.,132
+43,complete,2018-06-11,3.6,1.8,Etiam justo.,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",118
+44,dispute,2018-04-09,NULL,NULL,NULL,NULL,2
+45,ongoing,2018-02-24,NULL,NULL,NULL,NULL,2
+46,ongoing,2019-03-26,NULL,NULL,NULL,NULL,21
+47,dispute,2018-10-13,NULL,NULL,NULL,NULL,92
+48,ongoing,2018-03-20,NULL,NULL,NULL,NULL,27
+49,complete,2018-05-02,2.0,1.6,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",Duis consequat dui nec nisi volutpat eleifend.,47
+50,dispute,2019-02-14,NULL,NULL,NULL,NULL,51
+51,ongoing,2018-06-07,NULL,NULL,NULL,NULL,71
+52,cancelled,2018-03-31,3.5,2.6,Nullam varius.,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",178
+53,cancelled,2020-04-10,4.4,3.1,Vestibulum rutrum rutrum neque.,Maecenas rhoncus aliquam lacus.,27
+54,dispute,2018-11-07,NULL,NULL,NULL,NULL,191
+55,complete,2018-07-06,3.9,4.8,Fusce posuere felis sed lacus.,Donec quis orci eget orci vehicula condimentum.,22
+56,cancelled,2020-06-18,2.7,4.9,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",Nulla mollis molestie lorem.,100
+57,cancelled,2020-06-10,2.6,3.9,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",Mauris ullamcorper purus sit amet nulla.,127
+58,complete,2018-06-02,4.2,1.5,Fusce consequat.,Nunc rhoncus dui vel sem.,95
+59,complete,2018-01-12,3.1,2.4,Phasellus id sapien in sapien iaculis congue.,Suspendisse potenti.,48
+60,cancelled,2018-03-28,4.2,5.0,Morbi quis tortor id nulla ultrices aliquet.,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",186
