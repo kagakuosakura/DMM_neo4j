@@ -1,61 +1,61 @@
 id,status,create_date,client_rating,freelancer_rating,client_rating_description,freelancer_rating_description,proposal_id
-1,cancelled,2020-04-22T11:05:18Z,1.4,3.6,Maecenas ut massa quis augue luctus tincidunt.,Nulla tellus.,190
-2,complete,2019-06-04T10:20:43Z,4.1,4.3,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",Morbi ut odio.,103
-3,complete,2020-04-21T18:04:45Z,1.1,3.1,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.","Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",181
-4,dispute,2018-12-16T21:10:57Z,NULL,NULL,NULL,NULL,90
-5,dispute,2018-01-15T08:07:05Z,NULL,NULL,NULL,NULL,161
-6,cancelled,2020-07-03T02:55:46Z,3.3,2.9,Nulla tempus.,Etiam justo.,69
-7,dispute,2019-11-25T18:35:46Z,NULL,NULL,NULL,NULL,14
-8,ongoing,2018-07-19T14:39:34Z,NULL,NULL,NULL,NULL,190
-9,cancelled,2018-05-05T19:18:31Z,3.8,1.7,In hac habitasse platea dictumst.,Curabitur in libero ut massa volutpat convallis.,175
-10,ongoing,2018-08-31T10:09:10Z,NULL,NULL,NULL,NULL,23
-11,dispute,2018-12-18T19:04:12Z,NULL,NULL,NULL,NULL,148
-12,ongoing,2019-02-16T20:42:10Z,NULL,NULL,NULL,NULL,160
-13,cancelled,2018-05-15T11:06:32Z,3.7,4.2,Nulla ac enim.,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",75
-14,complete,2020-01-07T17:58:33Z,3.4,4.8,Duis bibendum.,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",146
-15,dispute,2018-08-01T18:01:46Z,NULL,NULL,NULL,NULL,194
-16,cancelled,2020-08-05T17:15:45Z,3.0,2.9,Vestibulum ac est lacinia nisi venenatis tristique.,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",39
-17,cancelled,2019-04-07T07:25:20Z,2.4,2.8,Integer ac neque.,Donec dapibus.,195
-18,ongoing,2019-12-07T10:20:17Z,NULL,NULL,NULL,NULL,6
-19,cancelled,2019-10-18T14:39:50Z,2.0,4.2,Etiam vel augue.,Donec dapibus.,198
-20,cancelled,2019-09-09T17:33:49Z,4.5,4.7,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.","In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",33
-21,cancelled,2019-05-13T11:08:24Z,3.0,2.8,Pellentesque ultrices mattis odio.,Mauris sit amet eros.,78
-22,complete,2020-08-30T01:24:40Z,3.1,1.5,Phasellus in felis.,Nulla suscipit ligula in lacus.,11
-23,complete,2020-03-25T19:58:52Z,4.4,1.8,Curabitur at ipsum ac tellus semper interdum.,Proin interdum mauris non ligula pellentesque ultrices.,94
-24,ongoing,2019-07-24T18:35:40Z,NULL,NULL,NULL,NULL,193
-25,ongoing,2018-11-02T19:39:31Z,NULL,NULL,NULL,NULL,165
-26,dispute,2020-06-23T23:00:15Z,NULL,NULL,NULL,NULL,79
-27,cancelled,2020-08-07T20:28:41Z,2.1,3.5,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",Donec posuere metus vitae ipsum.,61
-28,cancelled,2018-06-27T07:25:32Z,2.7,1.5,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.","Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",175
-29,dispute,2019-05-03T14:56:44Z,NULL,NULL,NULL,NULL,14
-30,complete,2019-09-12T10:33:06Z,3.2,2.1,Nam tristique tortor eu pede.,Pellentesque at nulla.,83
-31,dispute,2018-12-26T05:50:51Z,NULL,NULL,NULL,NULL,21
-32,cancelled,2019-01-14T01:18:49Z,3.0,3.5,Integer ac neque.,Integer ac neque.,172
-33,dispute,2018-09-18T02:22:21Z,NULL,NULL,NULL,NULL,83
-34,complete,2019-12-30T21:02:18Z,1.8,2.2,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",Nunc purus.,90
-35,cancelled,2020-09-07T16:17:59Z,3.8,5.0,Etiam faucibus cursus urna.,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",81
-36,cancelled,2018-10-19T18:40:43Z,1.4,5.0,Etiam justo.,In hac habitasse platea dictumst.,32
-37,cancelled,2020-07-18T17:40:28Z,1.0,2.7,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.","Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",79
-38,cancelled,2018-10-04T22:08:48Z,2.0,2.1,Etiam justo.,Aenean sit amet justo.,37
-39,dispute,2019-11-11T03:34:14Z,NULL,NULL,NULL,NULL,188
-40,dispute,2020-01-14T06:54:54Z,NULL,NULL,NULL,NULL,157
-41,complete,2018-08-24T21:04:54Z,4.0,4.3,Fusce consequat.,Cras non velit nec nisi vulputate nonummy.,180
-42,dispute,2019-09-07T03:39:28Z,NULL,NULL,NULL,NULL,98
-43,ongoing,2020-03-10T22:07:05Z,NULL,NULL,NULL,NULL,111
-44,dispute,2018-03-02T12:47:50Z,NULL,NULL,NULL,NULL,113
-45,dispute,2020-05-30T19:41:52Z,NULL,NULL,NULL,NULL,178
-46,cancelled,2019-07-05T17:43:45Z,2.3,4.6,Duis at velit eu est congue elementum.,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",79
-47,dispute,2019-08-26T02:43:30Z,NULL,NULL,NULL,NULL,37
-48,dispute,2018-10-03T06:35:25Z,NULL,NULL,NULL,NULL,37
-49,cancelled,2019-11-04T20:11:05Z,1.6,4.7,Praesent blandit.,Aliquam quis turpis eget elit sodales scelerisque.,119
-50,complete,2020-02-21T01:34:15Z,1.4,2.5,Aenean fermentum.,Quisque id justo sit amet sapien dignissim vestibulum.,160
-51,dispute,2019-04-16T03:24:19Z,NULL,NULL,NULL,NULL,40
-52,cancelled,2019-11-27T19:55:56Z,3.8,3.6,Pellentesque ultrices mattis odio.,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",92
-53,complete,2020-02-28T15:39:46Z,2.9,2.3,Pellentesque eget nunc.,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",119
-54,ongoing,2019-02-01T14:53:46Z,NULL,NULL,NULL,NULL,4
-55,dispute,2019-06-11T21:06:59Z,NULL,NULL,NULL,NULL,136
-56,dispute,2018-02-21T23:25:26Z,NULL,NULL,NULL,NULL,153
-57,ongoing,2020-07-25T07:59:13Z,NULL,NULL,NULL,NULL,14
-58,dispute,2018-02-04T16:02:33Z,NULL,NULL,NULL,NULL,158
-59,complete,2020-07-06T10:23:53Z,3.0,4.1,Pellentesque at nulla.,Proin risus.,140
-60,ongoing,2019-04-18T18:13:43Z,NULL,NULL,NULL,NULL,156
+1,dispute,"{""$date"":""2019-03-31T07:39:19.000Z""}",NULL,NULL,NULL,NULL,99
+2,ongoing,"{""$date"":""2018-04-30T11:14:48.000Z""}",NULL,NULL,NULL,NULL,104
+3,dispute,"{""$date"":""2018-10-21T18:38:28.000Z""}",NULL,NULL,NULL,NULL,16
+4,ongoing,"{""$date"":""2020-04-21T13:58:40.000Z""}",NULL,NULL,NULL,NULL,159
+5,cancelled,"{""$date"":""2018-07-02T04:28:09.000Z""}",2.3,1.8,Maecenas rhoncus aliquam lacus.,In quis justo.,28
+6,ongoing,"{""$date"":""2018-10-28T01:26:34.000Z""}",NULL,NULL,NULL,NULL,149
+7,cancelled,"{""$date"":""2018-07-23T01:35:55.000Z""}",4.6,1.2,Aenean auctor gravida sem.,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",78
+8,ongoing,"{""$date"":""2020-06-09T02:20:10.000Z""}",NULL,NULL,NULL,NULL,177
+9,dispute,"{""$date"":""2018-08-10T08:17:02.000Z""}",NULL,NULL,NULL,NULL,171
+10,ongoing,"{""$date"":""2018-08-21T04:45:37.000Z""}",NULL,NULL,NULL,NULL,149
+11,cancelled,"{""$date"":""2020-07-13T00:07:13.000Z""}",3.0,4.3,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.","Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",162
+12,complete,"{""$date"":""2018-05-11T01:06:22.000Z""}",4.7,2.1,Praesent id massa id nisl venenatis lacinia.,Maecenas ut massa quis augue luctus tincidunt.,124
+13,dispute,"{""$date"":""2019-05-25T04:11:54.000Z""}",NULL,NULL,NULL,NULL,31
+14,dispute,"{""$date"":""2018-12-23T23:31:04.000Z""}",NULL,NULL,NULL,NULL,193
+15,complete,"{""$date"":""2019-02-18T05:13:59.000Z""}",4.4,4.3,Etiam faucibus cursus urna.,Cras pellentesque volutpat dui.,162
+16,complete,"{""$date"":""2018-01-18T17:33:42.000Z""}",2.8,1.5,In congue.,Pellentesque at nulla.,200
+17,ongoing,"{""$date"":""2019-01-22T12:08:26.000Z""}",NULL,NULL,NULL,NULL,123
+18,dispute,"{""$date"":""2020-07-23T20:06:52.000Z""}",NULL,NULL,NULL,NULL,83
+19,complete,"{""$date"":""2018-02-16T22:07:01.000Z""}",1.6,2.5,Duis ac nibh.,Praesent lectus.,30
+20,complete,"{""$date"":""2018-06-08T12:29:57.000Z""}",3.0,4.3,Sed sagittis.,Integer a nibh.,194
+21,dispute,"{""$date"":""2018-10-03T22:07:59.000Z""}",NULL,NULL,NULL,NULL,9
+22,dispute,"{""$date"":""2019-09-28T01:17:04.000Z""}",NULL,NULL,NULL,NULL,24
+23,dispute,"{""$date"":""2020-04-21T00:47:19.000Z""}",NULL,NULL,NULL,NULL,29
+24,cancelled,"{""$date"":""2020-05-27T06:40:58.000Z""}",4.4,3.9,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.","Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",123
+25,ongoing,"{""$date"":""2018-07-29T21:58:28.000Z""}",NULL,NULL,NULL,NULL,183
+26,complete,"{""$date"":""2018-04-24T18:34:20.000Z""}",4.0,3.6,Morbi ut odio.,Maecenas pulvinar lobortis est.,77
+27,complete,"{""$date"":""2018-11-22T02:28:03.000Z""}",1.5,3.8,Pellentesque eget nunc.,Nullam porttitor lacus at turpis.,37
+28,dispute,"{""$date"":""2018-12-10T09:29:43.000Z""}",NULL,NULL,NULL,NULL,162
+29,cancelled,"{""$date"":""2018-01-18T19:52:36.000Z""}",1.4,3.1,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.","Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",171
+30,complete,"{""$date"":""2019-05-06T16:01:09.000Z""}",1.7,3.8,Vivamus vel nulla eget eros elementum pellentesque.,Etiam faucibus cursus urna.,67
+31,complete,"{""$date"":""2020-07-17T17:37:59.000Z""}",4.3,3.9,Praesent id massa id nisl venenatis lacinia.,Sed sagittis.,169
+32,cancelled,"{""$date"":""2019-12-26T10:37:32.000Z""}",2.4,2.6,Morbi quis tortor id nulla ultrices aliquet.,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",139
+33,ongoing,"{""$date"":""2020-02-09T19:24:15.000Z""}",NULL,NULL,NULL,NULL,20
+34,ongoing,"{""$date"":""2018-07-12T16:13:16.000Z""}",NULL,NULL,NULL,NULL,42
+35,cancelled,"{""$date"":""2018-07-25T16:14:33.000Z""}",3.7,2.1,Mauris sit amet eros.,Aenean sit amet justo.,99
+36,dispute,"{""$date"":""2020-07-06T04:33:00.000Z""}",NULL,NULL,NULL,NULL,188
+37,dispute,"{""$date"":""2018-11-16T04:07:06.000Z""}",NULL,NULL,NULL,NULL,87
+38,dispute,"{""$date"":""2019-06-03T08:36:01.000Z""}",NULL,NULL,NULL,NULL,117
+39,cancelled,"{""$date"":""2019-02-26T00:53:20.000Z""}",2.9,2.5,Integer ac neque.,Integer ac neque.,11
+40,cancelled,"{""$date"":""2020-06-06T19:55:42.000Z""}",1.6,2.5,Maecenas pulvinar lobortis est.,Sed sagittis.,88
+41,complete,"{""$date"":""2019-05-04T22:44:36.000Z""}",3.7,2.4,Suspendisse ornare consequat lectus.,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",125
+42,ongoing,"{""$date"":""2019-07-14T23:10:34.000Z""}",NULL,NULL,NULL,NULL,100
+43,ongoing,"{""$date"":""2019-12-29T16:07:03.000Z""}",NULL,NULL,NULL,NULL,48
+44,ongoing,"{""$date"":""2019-03-23T00:13:46.000Z""}",NULL,NULL,NULL,NULL,86
+45,cancelled,"{""$date"":""2018-05-14T02:21:54.000Z""}",3.1,4.4,Nunc purus.,Mauris lacinia sapien quis libero.,41
+46,complete,"{""$date"":""2018-02-14T13:26:05.000Z""}",3.5,2.4,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",Vivamus tortor.,191
+47,ongoing,"{""$date"":""2018-01-25T08:40:14.000Z""}",NULL,NULL,NULL,NULL,84
+48,cancelled,"{""$date"":""2020-03-02T06:42:39.000Z""}",3.1,2.8,Vestibulum sed magna at nunc commodo placerat.,Donec ut mauris eget massa tempor convallis.,115
+49,dispute,"{""$date"":""2018-07-05T01:10:38.000Z""}",NULL,NULL,NULL,NULL,19
+50,cancelled,"{""$date"":""2020-05-17T06:25:31.000Z""}",1.8,2.2,Phasellus id sapien in sapien iaculis congue.,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",118
+51,dispute,"{""$date"":""2019-04-30T16:26:22.000Z""}",NULL,NULL,NULL,NULL,178
+52,complete,"{""$date"":""2019-09-24T06:02:01.000Z""}",2.3,3.5,Morbi quis tortor id nulla ultrices aliquet.,Proin eu mi.,45
+53,ongoing,"{""$date"":""2019-04-10T16:06:21.000Z""}",NULL,NULL,NULL,NULL,198
+54,complete,"{""$date"":""2018-03-26T23:58:29.000Z""}",4.8,3.7,Integer ac leo.,Aliquam erat volutpat.,96
+55,complete,"{""$date"":""2019-06-26T16:02:44.000Z""}",3.8,2.5,Morbi non quam nec dui luctus rutrum.,Mauris lacinia sapien quis libero.,186
+56,ongoing,"{""$date"":""2019-07-24T01:05:29.000Z""}",NULL,NULL,NULL,NULL,72
+57,ongoing,"{""$date"":""2019-01-15T10:54:22.000Z""}",NULL,NULL,NULL,NULL,60
+58,cancelled,"{""$date"":""2018-01-04T01:51:00.000Z""}",1.8,2.7,Morbi non quam nec dui luctus rutrum.,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",136
+59,cancelled,"{""$date"":""2019-10-12T13:44:42.000Z""}",4.2,1.8,Cras non velit nec nisi vulputate nonummy.,Praesent lectus.,160
+60,complete,"{""$date"":""2020-03-21T07:24:46.000Z""}",2.7,3.2,Vivamus tortor.,Etiam vel augue.,31
