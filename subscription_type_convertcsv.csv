@@ -1,8 +1,0 @@
-id,type,charge,duration,post_per_month
-1,free,0,365,2
-2,silver1,10,365,5
-3,silver2,15,730,5
-4,gold1,20,365,20
-5,gold2,30,730,20
-6,platinum1,100,365,1000
-7,platinum2,150,730,1000
