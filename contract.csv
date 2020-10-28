@@ -1,61 +1,61 @@
 id,status,create_date,client_rating,freelancer_rating,client_rating_description,freelancer_rating_description,proposal_id
-1,ongoing,2020-02-29T22:38:14Z,NULL,NULL,NULL,NULL,129
-2,cancelled,2019-07-14T14:58:01Z,3.0,4.1,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",Nullam porttitor lacus at turpis.,162
-3,dispute,2020-01-08T02:08:29Z,NULL,NULL,NULL,NULL,117
-4,dispute,2020-02-01T15:16:27Z,NULL,NULL,NULL,NULL,60
-5,dispute,2020-03-24T12:32:16Z,NULL,NULL,NULL,NULL,21
-6,cancelled,2018-06-03T01:16:45Z,4.5,1.5,Integer non velit.,Nullam varius.,67
-7,complete,2020-08-28T03:16:13Z,3.4,2.0,In hac habitasse platea dictumst.,Sed ante.,128
-8,dispute,2020-07-27T02:31:42Z,NULL,NULL,NULL,NULL,31
-9,ongoing,2018-01-23T12:29:41Z,NULL,NULL,NULL,NULL,121
-10,dispute,2019-07-28T10:11:40Z,NULL,NULL,NULL,NULL,109
-11,complete,2018-03-30T10:06:40Z,4.7,3.0,Aliquam erat volutpat.,Vestibulum rutrum rutrum neque.,170
-12,dispute,2019-04-14T13:15:04Z,NULL,NULL,NULL,NULL,45
-13,complete,2019-09-04T17:31:28Z,4.9,3.2,Aliquam sit amet diam in magna bibendum imperdiet.,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",7
-14,ongoing,2019-12-01T16:53:55Z,NULL,NULL,NULL,NULL,21
-15,cancelled,2020-07-07T05:59:19Z,3.5,2.6,Morbi a ipsum.,Morbi non lectus.,53
-16,complete,2020-04-29T05:02:48Z,3.2,4.5,Nulla ac enim.,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",21
-17,complete,2020-06-28T17:56:43Z,4.4,1.6,Donec vitae nisi.,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",81
-18,cancelled,2019-10-03T05:21:41Z,4.3,4.6,Duis mattis egestas metus.,Morbi quis tortor id nulla ultrices aliquet.,17
-19,dispute,2019-12-02T23:41:56Z,NULL,NULL,NULL,NULL,168
-20,dispute,2018-10-17T23:07:44Z,NULL,NULL,NULL,NULL,130
-21,complete,2018-04-16T21:05:56Z,2.4,4.9,Aliquam quis turpis eget elit sodales scelerisque.,Ut tellus.,113
-22,complete,2018-05-07T15:22:01Z,4.0,1.9,Donec posuere metus vitae ipsum.,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",117
-23,ongoing,2019-07-20T10:41:07Z,NULL,NULL,NULL,NULL,154
-24,ongoing,2018-12-29T09:57:50Z,NULL,NULL,NULL,NULL,186
-25,cancelled,2018-12-19T12:36:58Z,1.8,3.6,Aenean fermentum.,Duis bibendum.,14
-26,dispute,2019-10-30T22:11:38Z,NULL,NULL,NULL,NULL,13
-27,dispute,2020-06-22T23:18:00Z,NULL,NULL,NULL,NULL,160
-28,complete,2020-08-03T17:43:21Z,3.1,3.7,Vivamus vel nulla eget eros elementum pellentesque.,Nullam porttitor lacus at turpis.,160
-29,dispute,2019-03-13T02:30:01Z,NULL,NULL,NULL,NULL,108
-30,complete,2019-02-12T00:34:07Z,2.6,1.9,Pellentesque at nulla.,Fusce posuere felis sed lacus.,182
-31,ongoing,2019-12-15T11:27:30Z,NULL,NULL,NULL,NULL,156
-32,cancelled,2019-05-05T23:35:13Z,2.3,4.5,Nullam porttitor lacus at turpis.,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",179
-33,dispute,2018-05-17T10:03:42Z,NULL,NULL,NULL,NULL,155
-34,dispute,2020-05-13T22:11:28Z,NULL,NULL,NULL,NULL,86
-35,ongoing,2019-04-10T19:55:00Z,NULL,NULL,NULL,NULL,164
-36,complete,2018-11-08T00:01:13Z,1.3,3.3,Quisque porta volutpat erat.,Sed accumsan felis.,51
-37,complete,2020-08-11T21:05:09Z,4.2,3.7,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",Nunc nisl.,165
-38,dispute,2019-07-11T09:36:03Z,NULL,NULL,NULL,NULL,191
-39,cancelled,2020-05-16T18:05:24Z,3.7,2.7,Morbi quis tortor id nulla ultrices aliquet.,Nullam molestie nibh in lectus.,113
-40,cancelled,2020-07-04T23:30:51Z,3.0,2.5,Nullam porttitor lacus at turpis.,Vestibulum ac est lacinia nisi venenatis tristique.,158
-41,cancelled,2019-06-08T17:55:14Z,1.9,3.2,Donec ut mauris eget massa tempor convallis.,Morbi non quam nec dui luctus rutrum.,122
-42,complete,2018-09-27T09:34:10Z,1.8,4.4,Nulla ac enim.,Curabitur in libero ut massa volutpat convallis.,12
-43,dispute,2019-03-09T07:29:04Z,NULL,NULL,NULL,NULL,114
-44,cancelled,2018-02-23T02:37:04Z,3.0,4.0,In hac habitasse platea dictumst.,Nullam varius.,148
-45,cancelled,2020-03-19T05:48:42Z,1.7,3.0,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",Quisque ut erat.,16
-46,complete,2020-09-01T23:17:39Z,2.8,3.9,Mauris sit amet eros.,Pellentesque ultrices mattis odio.,56
-47,ongoing,2019-07-18T01:55:56Z,NULL,NULL,NULL,NULL,132
-48,cancelled,2019-01-19T10:39:32Z,3.3,1.5,Morbi ut odio.,Maecenas rhoncus aliquam lacus.,20
-49,complete,2018-10-28T17:47:27Z,4.1,2.5,Morbi ut odio.,Nulla ut erat id mauris vulputate elementum.,139
-50,complete,2018-06-02T20:42:30Z,1.5,2.8,Integer ac neque.,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",178
-51,ongoing,2019-07-23T21:45:02Z,NULL,NULL,NULL,NULL,87
-52,complete,2018-12-11T15:30:16Z,3.9,3.8,Vestibulum rutrum rutrum neque.,Duis bibendum.,28
-53,complete,2019-08-12T15:42:36Z,3.0,4.4,Pellentesque at nulla.,Donec ut mauris eget massa tempor convallis.,80
-54,ongoing,2020-08-24T18:30:34Z,NULL,NULL,NULL,NULL,142
-55,complete,2019-02-26T20:11:36Z,4.0,3.6,Morbi non lectus.,Aliquam erat volutpat.,16
-56,cancelled,2020-02-06T10:35:42Z,4.5,4.4,Vestibulum rutrum rutrum neque.,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",145
-57,ongoing,2018-03-10T11:54:47Z,NULL,NULL,NULL,NULL,145
-58,cancelled,2019-12-25T14:22:43Z,2.6,1.9,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",Vivamus vel nulla eget eros elementum pellentesque.,198
-59,ongoing,2018-10-22T23:21:27Z,NULL,NULL,NULL,NULL,191
-60,ongoing,2020-08-12T20:28:07Z,NULL,NULL,NULL,NULL,199
+1,dispute,2018-06-23T11:35:00Z,NULL,NULL,NULL,NULL,1
+2,complete,2018-12-02T17:51:23Z,4.7,3.5,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",Integer ac leo.,2
+3,complete,2020-07-03T07:27:59Z,3.8,2.8,Donec posuere metus vitae ipsum.,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",3
+4,complete,2020-04-07T10:50:10Z,1.4,4.4,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.","Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",4
+5,dispute,2019-07-01T07:54:40Z,NULL,NULL,NULL,NULL,5
+6,complete,2018-06-19T19:17:06Z,3.8,1.2,Nam nulla.,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",6
+7,dispute,2019-04-26T12:38:09Z,NULL,NULL,NULL,NULL,7
+8,dispute,2020-06-20T15:36:32Z,NULL,NULL,NULL,NULL,8
+9,ongoing,2020-05-28T23:43:40Z,NULL,NULL,NULL,NULL,9
+10,ongoing,2019-07-21T01:54:58Z,NULL,NULL,NULL,NULL,10
+11,cancelled,2019-01-08T03:47:48Z,4.4,2.6,Morbi quis tortor id nulla ultrices aliquet.,Fusce consequat.,11
+12,complete,2018-04-18T10:55:00Z,1.1,2.0,Quisque ut erat.,Morbi non lectus.,12
+13,dispute,2019-12-24T00:52:53Z,NULL,NULL,NULL,NULL,13
+14,ongoing,2020-08-03T17:36:45Z,NULL,NULL,NULL,NULL,14
+15,complete,2019-11-29T00:54:57Z,1.8,2.6,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",Vivamus tortor.,15
+16,ongoing,2018-10-01T08:53:42Z,NULL,NULL,NULL,NULL,16
+17,dispute,2020-03-01T02:53:10Z,NULL,NULL,NULL,NULL,17
+18,cancelled,2018-12-10T10:43:20Z,2.9,3.5,Etiam faucibus cursus urna.,Donec posuere metus vitae ipsum.,18
+19,dispute,2019-10-01T21:29:02Z,NULL,NULL,NULL,NULL,19
+20,complete,2020-01-13T09:55:05Z,2.2,4.9,Nullam molestie nibh in lectus.,Nunc nisl.,20
+21,ongoing,2018-10-12T04:04:59Z,NULL,NULL,NULL,NULL,21
+22,ongoing,2019-01-17T18:34:47Z,NULL,NULL,NULL,NULL,22
+23,ongoing,2019-03-03T11:07:46Z,NULL,NULL,NULL,NULL,23
+24,ongoing,2018-06-07T14:45:19Z,NULL,NULL,NULL,NULL,24
+25,ongoing,2019-02-24T22:51:42Z,NULL,NULL,NULL,NULL,25
+26,dispute,2019-02-16T00:00:43Z,NULL,NULL,NULL,NULL,26
+27,dispute,2018-08-25T11:29:49Z,NULL,NULL,NULL,NULL,27
+28,complete,2019-06-10T03:46:35Z,2.5,1.1,Vestibulum ac est lacinia nisi venenatis tristique.,Aenean auctor gravida sem.,28
+29,ongoing,2019-06-13T16:56:51Z,NULL,NULL,NULL,NULL,29
+30,complete,2019-07-22T16:44:19Z,4.7,1.3,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,Pellentesque viverra pede ac diam.,30
+31,ongoing,2019-07-15T17:21:40Z,NULL,NULL,NULL,NULL,31
+32,ongoing,2019-08-20T04:21:48Z,NULL,NULL,NULL,NULL,32
+33,complete,2019-05-30T09:32:23Z,5.0,1.2,Duis consequat dui nec nisi volutpat eleifend.,Etiam justo.,33
+34,cancelled,2019-02-12T05:00:24Z,3.6,4.4,Mauris lacinia sapien quis libero.,Vestibulum sed magna at nunc commodo placerat.,34
+35,complete,2019-07-15T05:21:00Z,1.4,2.2,Duis mattis egestas metus.,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",35
+36,ongoing,2020-06-30T11:27:41Z,NULL,NULL,NULL,NULL,36
+37,complete,2019-08-10T00:06:20Z,2.4,1.8,Aliquam sit amet diam in magna bibendum imperdiet.,Etiam pretium iaculis justo.,37
+38,complete,2018-09-15T02:21:09Z,3.9,2.9,Nulla tempus.,Duis mattis egestas metus.,38
+39,ongoing,2018-11-25T23:40:42Z,NULL,NULL,NULL,NULL,39
+40,dispute,2018-09-21T19:21:52Z,NULL,NULL,NULL,NULL,40
+41,complete,2018-04-12T22:43:32Z,1.0,3.0,Vivamus vestibulum sagittis sapien.,Aenean lectus.,41
+42,dispute,2020-02-13T12:30:18Z,NULL,NULL,NULL,NULL,42
+43,ongoing,2018-05-25T18:57:32Z,NULL,NULL,NULL,NULL,43
+44,complete,2018-09-03T17:34:15Z,1.5,4.2,Integer ac neque.,Vivamus in felis eu sapien cursus vestibulum.,44
+45,dispute,2018-04-20T09:14:48Z,NULL,NULL,NULL,NULL,45
+46,ongoing,2019-02-12T21:01:44Z,NULL,NULL,NULL,NULL,46
+47,complete,2019-06-23T08:59:15Z,1.8,4.8,Nulla suscipit ligula in lacus.,Nulla suscipit ligula in lacus.,47
+48,complete,2018-08-27T08:28:08Z,4.1,3.4,Donec dapibus.,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",48
+49,ongoing,2018-06-28T20:24:51Z,NULL,NULL,NULL,NULL,49
+50,cancelled,2019-10-31T09:10:46Z,3.0,2.2,Vestibulum rutrum rutrum neque.,Curabitur in libero ut massa volutpat convallis.,50
+51,ongoing,2018-06-01T15:47:57Z,NULL,NULL,NULL,NULL,51
+52,ongoing,2018-11-04T06:59:49Z,NULL,NULL,NULL,NULL,52
+53,cancelled,2019-04-24T09:30:27Z,3.8,3.7,Praesent blandit.,Praesent lectus.,53
+54,complete,2019-04-09T07:54:11Z,2.9,1.4,Etiam justo.,Curabitur gravida nisi at nibh.,54
+55,ongoing,2018-02-04T15:39:00Z,NULL,NULL,NULL,NULL,55
+56,cancelled,2018-11-03T23:32:46Z,1.4,2.3,In hac habitasse platea dictumst.,Donec vitae nisi.,56
+57,cancelled,2018-04-29T06:05:12Z,4.9,2.5,Integer ac neque.,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",57
+58,dispute,2020-02-03T04:42:22Z,NULL,NULL,NULL,NULL,58
+59,ongoing,2018-06-21T10:18:20Z,NULL,NULL,NULL,NULL,59
+60,cancelled,2019-08-12T06:47:06Z,1.8,2.3,Vestibulum rutrum rutrum neque.,Morbi ut odio.,60
