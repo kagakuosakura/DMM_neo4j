@@ -1,4 +1,4 @@
-id, type, charge, duration, post_per_month
+id,type,charge,duration,post_per_month
 1,free,0,365,2
 2,silver1,10,365,5
 3,silver2,15,730,5
